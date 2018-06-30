@@ -1,6 +1,6 @@
 {
   "name": "array-starts-with",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The same as String.prototype.startsWith but comparing array elements instead of string characters",
   "main": "build/index.js",
   "scripts": {
@@ -13,7 +13,12 @@
     "type": "git",
     "url": "git+https://github.com/oprogramador/array-starts-with.git"
   },
-  "keywords": ["array","startsWith","starts","with"],
+  "keywords": [
+    "array",
+    "startsWith",
+    "starts",
+    "with"
+  ],
   "author": "oprogramador",
   "license": "MIT",
   "bugs": {
