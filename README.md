@@ -18,3 +18,17 @@ or with yarn:
 ```
 yarn add array-starts-with
 ```
+
+## usage
+```js
+import arrayStartsWith from 'array-starts-with'
+// or:
+// const arrayStartsWith = require('array-starts-with').default;
+
+const base = ['foo', 'bar', 'baz'];
+const start = ['foo', 'bar'];
+
+const result = arrayStartsWith(base, start);
+
+expect(result).to.equal(true);
+```
