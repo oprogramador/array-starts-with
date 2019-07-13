@@ -1,6 +1,6 @@
 {
   "name": "array-starts-with",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "The same as String.prototype.startsWith but comparing array elements instead of string characters",
   "main": "build/index.js",
   "scripts": {
